@@ -1,2 +1,2 @@
-# gitrepo-12
-in2tive
+# in2tive-hello-world
+Hello World Application
